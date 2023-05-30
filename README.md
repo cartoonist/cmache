@@ -1,3 +1,6 @@
+![](https://anaconda.org/cartoonist/cmache/badges/version.svg)
+![](https://anaconda.org/cartoonist/cmache/badges/platforms.svg)
+![](https://anaconda.org/cartoonist/cmache/badges/latest_release_date.svg)
 # CMache
 A trivial CMake wrapper for caching the original cmake command which is
 available via conda.
