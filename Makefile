@@ -8,4 +8,4 @@ BINARIES = cmache
 .PHONY: install
 
 install: ${BINARIES}
-	@install -vm 755 $^ ${PREFIX}/bin
+	@install -vm 755 $^ ${PREFIX}/bin/
