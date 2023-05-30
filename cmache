@@ -1,0 +1,4 @@
+#!/bin/bash
+CMAKE=${CMAKE:-"cmake"}
+echo "${CMAKE} $@" > "$PWD/cmake_command.log"
+${CMAKE} $@
